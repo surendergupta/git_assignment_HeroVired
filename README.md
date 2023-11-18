@@ -5,3 +5,6 @@
 3. create a new branch named dev
 4. check the code and if working properly.
 5. push this code into the dev branch
+6. Added a new collaborator
+7. create a new branch feature/sqrt
+8. working this feature and push this code at feature/sqrt branch
